@@ -1,1 +1,23 @@
-
+{
+  "ID": "0001",
+  "Summary": "Missing product images on the Product page",
+  "Priority": "High",
+  "Severity": "Major",
+  "Еxpected result": "Product images are displayed on the Product page",
+  "Actual result": "All product images are missing",
+  "Steps": 
+  [
+          "1. Open www.namestore.com",
+          "2. Find and select a product on the Main page and make sure that the Product page has loaded"                     
+  ],
+  "Enviroment":
+  {
+          "OS": "Windows 10",
+          "Browser": "Google Chrome 98.0.4758.102, (x86_64)"
+  },
+  "Attachments": 
+  {
+          "link1": "https://...",
+          "link2": "https://..."
+  }
+}
